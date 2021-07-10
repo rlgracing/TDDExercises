@@ -1,5 +1,9 @@
 package rlg.exercises;
 
+/**
+ * https://medium.com/@marlenac/learning-tdd-with-katas-3f499cb9c492
+ * http://www.codingdojo.org/cgi-bin/index.pl?KataFizzBuzz
+ */
 public class BuzzFizz {
 
     public static final String FIZZ = "Fizz";
