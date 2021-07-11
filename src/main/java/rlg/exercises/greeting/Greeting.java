@@ -5,6 +5,10 @@ import java.util.Arrays;
 import java.util.Collections;
 import java.util.List;
 
+/**
+ * https://medium.com/@marlenac/learning-tdd-with-katas-3f499cb9c492
+ * https://github.com/testdouble/contributing-tests/wiki/Greeting-Kata
+ */
 public class Greeting {
 
     private static final String GREETING = "Hello";
