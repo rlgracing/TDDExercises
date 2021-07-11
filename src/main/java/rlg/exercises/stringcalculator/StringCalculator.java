@@ -5,6 +5,7 @@ import java.util.List;
 import java.util.StringTokenizer;
 
 /**
+ * https://www.michael-whelan.net/code-katas-for-practicing-tdd/
  * https://github.com/mwhelan/Katas/tree/master/Katas.StringCalculator
  */
 public class StringCalculator {
